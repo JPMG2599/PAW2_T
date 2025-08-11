@@ -1,0 +1,22 @@
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.FluentAPI\bin\Debug\net8.0\PAW.FluentAPI.deps.json
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.FluentAPI\bin\Debug\net8.0\PAW.FluentAPI.dll
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.FluentAPI\bin\Debug\net8.0\PAW.FluentAPI.pdb
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.FluentAPI\obj\Debug\net8.0\PAW.FluentAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.FluentAPI\obj\Debug\net8.0\PAW.FluentAPI.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.FluentAPI\obj\Debug\net8.0\PAW.FluentAPI.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.FluentAPI\obj\Debug\net8.0\PAW.FluentAPI.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.FluentAPI\obj\Debug\net8.0\PAW.FluentAPI.dll
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.FluentAPI\obj\Debug\net8.0\refint\PAW.FluentAPI.dll
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.FluentAPI\obj\Debug\net8.0\PAW.FluentAPI.pdb
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.FluentAPI\obj\Debug\net8.0\ref\PAW.FluentAPI.dll
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.FluentAPI\bin\Debug\net8.0\PAW.FluentAPI.deps.json
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.FluentAPI\bin\Debug\net8.0\PAW.FluentAPI.dll
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.FluentAPI\bin\Debug\net8.0\PAW.FluentAPI.pdb
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.FluentAPI\obj\Debug\net8.0\PAW.FluentAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.FluentAPI\obj\Debug\net8.0\PAW.FluentAPI.AssemblyInfoInputs.cache
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.FluentAPI\obj\Debug\net8.0\PAW.FluentAPI.AssemblyInfo.cs
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.FluentAPI\obj\Debug\net8.0\PAW.FluentAPI.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.FluentAPI\obj\Debug\net8.0\PAW.FluentAPI.dll
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.FluentAPI\obj\Debug\net8.0\refint\PAW.FluentAPI.dll
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.FluentAPI\obj\Debug\net8.0\PAW.FluentAPI.pdb
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.FluentAPI\obj\Debug\net8.0\ref\PAW.FluentAPI.dll

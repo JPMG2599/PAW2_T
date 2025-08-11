@@ -1,0 +1,39 @@
+C:\Users\User\source\repos\PAW\PAW.Models\bin\Debug\net8.0\PAW.Models.deps.json
+C:\Users\User\source\repos\PAW\PAW.Models\bin\Debug\net8.0\PAW.Models.dll
+C:\Users\User\source\repos\PAW\PAW.Models\bin\Debug\net8.0\PAW.Models.pdb
+C:\Users\User\source\repos\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.AssemblyInfo.cs
+C:\Users\User\source\repos\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.dll
+C:\Users\User\source\repos\PAW\PAW.Models\obj\Debug\net8.0\refint\PAW.Models.dll
+C:\Users\User\source\repos\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.pdb
+C:\Users\User\source\repos\PAW\PAW.Models\obj\Debug\net8.0\ref\PAW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Models\bin\Debug\net8.0\PAW.Models.deps.json
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Models\bin\Debug\net8.0\PAW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Models\bin\Debug\net8.0\PAW.Models.pdb
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Models\obj\Debug\net8.0\refint\PAW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.pdb
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Models\obj\Debug\net8.0\ref\PAW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Models\bin\Debug\net8.0\PAW.Models.runtimeconfig.json
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.genruntimeconfig.cache
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Models\bin\Debug\net8.0\PAW.Models.deps.json
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Models\bin\Debug\net8.0\PAW.Models.runtimeconfig.json
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Models\bin\Debug\net8.0\PAW.Models.dll
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Models\bin\Debug\net8.0\PAW.Models.pdb
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.csproj.AssemblyReference.cache
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.AssemblyInfoInputs.cache
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.AssemblyInfo.cs
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.dll
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Models\obj\Debug\net8.0\refint\PAW.Models.dll
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.pdb
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Models\obj\Debug\net8.0\PAW.Models.genruntimeconfig.cache
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Models\obj\Debug\net8.0\ref\PAW.Models.dll

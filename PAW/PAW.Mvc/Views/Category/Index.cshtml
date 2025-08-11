@@ -1,0 +1,61 @@
+﻿@model IEnumerable<PAW.Models.ViewModels.CategoryViewModel>
+
+<h2>Categories</h2>
+
+<p class="mb-2">
+    <a class="btn btn-success">Create New</a>
+    <button class="btn btn-secondary" onclick="loadFilter('not-system')">ModifiedBy</button>
+    <button class="btn btn-secondary" onclick="loadFilter('admin')">ModifiedBy Admin</button>
+    <button class="btn btn-secondary" onclick="loadFilter('no-lastmodified-not-admin')">Not LastModified</button>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>ModifiedBy</th>
+            <th>LastModified</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="rows">
+        @foreach (var c in Model)
+        {
+            <tr>
+                <td>@c.CategoryId</td>
+                <td>@c.CategoryName</td>
+                <td>@c.ModifiedBy</td>
+                <td>@c.LastModified</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@c.CategoryId" class="btn btn-sm btn-primary">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@c.CategoryId" class="btn btn-sm btn-danger"
+                       onclick="return confirm('Delete this item?');">Delete</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        async function loadFilter(f){
+          const url = '@Url.Action("Filter", "Category")' + '?filter=' + encodeURIComponent(f);
+          const r = await fetch(url);
+          const data = await r.json();
+          const tbody = document.getElementById('rows');
+          tbody.innerHTML = data.map(x => `
+            <tr>
+              <td>${x.categoryId}</td>
+              <td>${x.categoryName ?? ''}</td>
+              <td>${x.modifiedBy ?? ''}</td>
+              <td>${x.lastModified ?? ''}</td>
+              <td>
+                <a class="btn btn-sm btn-primary">Edit</a>
+                <a class="btn btn-sm btn-danger">Delete</a>
+              </td>
+            </tr>`).join('');
+        }
+    </script>
+}

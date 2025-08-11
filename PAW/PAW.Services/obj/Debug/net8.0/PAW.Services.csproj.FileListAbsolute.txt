@@ -1,0 +1,38 @@
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\bin\Debug\net8.0\PAW.Services.deps.json
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\bin\Debug\net8.0\PAW.Services.dll
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\bin\Debug\net8.0\PAW.Services.pdb
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\bin\Debug\net8.0\PAW.Architecture.dll
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\bin\Debug\net8.0\PAW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\bin\Debug\net8.0\PAW.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\bin\Debug\net8.0\PAW.Models.pdb
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\obj\Debug\net8.0\PAW.Services.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\obj\Debug\net8.0\PAW.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\obj\Debug\net8.0\PAW.Services.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\obj\Debug\net8.0\PAW.Services.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\obj\Debug\net8.0\PAW.Services.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\obj\Debug\net8.0\PAW.Serv.563E4CB1.Up2Date
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\obj\Debug\net8.0\PAW.Services.dll
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\obj\Debug\net8.0\refint\PAW.Services.dll
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\obj\Debug\net8.0\PAW.Services.pdb
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\obj\Debug\net8.0\ref\PAW.Services.dll
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\bin\Debug\net8.0\PAW.FluentAPI.dll
+E:\repositories\UFide\Progra Avanzada Web\2025\Cuatrimestre II\PAW\PAW\PAW.Services\bin\Debug\net8.0\PAW.FluentAPI.pdb
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\bin\Debug\net8.0\PAW.Services.deps.json
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\bin\Debug\net8.0\PAW.Services.dll
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\bin\Debug\net8.0\PAW.Services.pdb
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\bin\Debug\net8.0\PAW.Architecture.dll
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\bin\Debug\net8.0\PAW.FluentAPI.dll
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\bin\Debug\net8.0\PAW.Models.dll
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\bin\Debug\net8.0\PAW.Architecture.pdb
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\bin\Debug\net8.0\PAW.FluentAPI.pdb
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\bin\Debug\net8.0\PAW.Models.pdb
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\obj\Debug\net8.0\PAW.Services.csproj.AssemblyReference.cache
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\obj\Debug\net8.0\PAW.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\obj\Debug\net8.0\PAW.Services.AssemblyInfoInputs.cache
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\obj\Debug\net8.0\PAW.Services.AssemblyInfo.cs
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\obj\Debug\net8.0\PAW.Services.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\obj\Debug\net8.0\PAW.Serv.563E4CB1.Up2Date
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\obj\Debug\net8.0\PAW.Services.dll
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\obj\Debug\net8.0\refint\PAW.Services.dll
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\obj\Debug\net8.0\PAW.Services.pdb
+C:\Users\juanp\Downloads\PAW (1)\PAW\PAW.Services\obj\Debug\net8.0\ref\PAW.Services.dll

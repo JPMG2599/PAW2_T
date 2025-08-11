@@ -1,0 +1,66 @@
+﻿@model IEnumerable<PAW.Models.ViewModels.ProductViewModel>
+
+<h2>Products</h2>
+
+<p class="mb-2">
+    <a class="btn btn-success">Create New</a>
+    <button class="btn btn-secondary" onclick="loadFilter('no-supplierid')">No Supplier</button>
+    <button class="btn btn-secondary" onclick="loadFilter('no-inventoryid')">No Inventory</button>
+    <button class="btn btn-secondary" onclick="loadFilter('highest-rating')">Highest Rating</button>
+    <button class="btn btn-secondary" onclick="loadFilter('lowest-rating')">Lowest Rating</button>
+    <button class="btn btn-secondary" onclick="loadFilter('most-common-rating')">Most Common Rating</button>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Rating</th>
+            <th>SupplierId</th>
+            <th>InventoryId</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="rows">
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.ProductId</td>
+                <td>@p.ProductName</td>
+                <td>@p.Rating</td>
+                <td>@p.SupplierId</td>
+                <td>@p.InventoryId</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@p.ProductId" class="btn btn-sm btn-primary">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@p.ProductId" class="btn btn-sm btn-danger"
+                       onclick="return confirm('Delete this item?');">Delete</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        async function loadFilter(f){
+          const url = '@Url.Action("Filter", "Product")' + '?filter=' + encodeURIComponent(f);
+          const r = await fetch(url);
+          const data = await r.json();
+          const tbody = document.getElementById('rows');
+          tbody.innerHTML = data.map(x => `
+            <tr>
+              <td>${x.productId}</td>
+              <td>${x.productName ?? ''}</td>
+              <td>${x.rating ?? ''}</td>
+              <td>${x.supplierId ?? ''}</td>
+              <td>${x.inventoryId ?? ''}</td>
+              <td>
+                <a class="btn btn-sm btn-primary">Edit</a>
+                <a class="btn btn-sm btn-danger">Delete</a>
+              </td>
+            </tr>`).join('');
+        }
+    </script>
+}
